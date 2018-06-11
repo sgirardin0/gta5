@@ -1,0 +1,6 @@
+
+PostgresDB:
+    host: localhost
+    user: root
+    name: mybdd
+    pass:

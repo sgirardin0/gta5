@@ -1,0 +1,15 @@
+{
+    "name": "website/gta5",
+    "description": "Website",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Simon Girardin",
+            "email": "s.girardin0@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/yaml" : "^4.1.0"
+    }
+}
